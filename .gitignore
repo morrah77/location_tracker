@@ -1,3 +1,6 @@
 .idea
 *.iml
 location_tracker
+certs/location-tracker-dev.crt
+certs/location-tracker-dev.key
+
